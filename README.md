@@ -1,1 +1,2 @@
 # CLI-Ubuntu
+user@computer:~$
